@@ -14,8 +14,6 @@ Example :
 ├── 📁 practice
 │   └── 📁 day-1
 │       └── 📄 question-1.js
-├── 📁 solutions
-│   └── 📝 day-1-solutions.md
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
