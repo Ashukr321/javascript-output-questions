@@ -20,9 +20,6 @@ console.log(str.slice(-6))// 10-6 => 4 // output is   (Script)
 
 
 
-
-
-
 // if we not give the end Index then it  goes to the end index  of the string
 
 // subString methods
