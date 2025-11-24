@@ -9,15 +9,8 @@ A collection of JavaScript output-based questions to practice daily, understand 
 4. Review explanations in `solutions/day-X-solutions.md`.
 
 
-```
-Example : 
-├── 📁 practice
-│   └── 📁 day-1
-│       └── 📄 question-1.js
-├── ⚙️ .gitignore
-├── 📄 LICENSE
-└── 📝 README.md
-```
+
+
 
 
 ## 🤝 Contribution
