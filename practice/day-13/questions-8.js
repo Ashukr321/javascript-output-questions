@@ -14,3 +14,7 @@ console.log(z); []
 console.log("hello" instanceof String);  // "hello" is the primitive data 
 console.log(new String("hello") instanceof String);
 // ref object => true
+
+let s = "abc";
+s[0] = "z";
+console.log(s);
