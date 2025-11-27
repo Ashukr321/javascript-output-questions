@@ -5,6 +5,5 @@ function test(a, b = a) {
 } 
 test(5); // 5,5 
 
-
 console.log(...[..."ABCD"]); // spread operator expand  in the individual value 
 // A B C D 
