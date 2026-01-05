@@ -22,3 +22,13 @@ result[0].id = 99;
 
 console.log(items[0].id); //  99
 console.log(result[0].id); // 99  
+
+// in this problem 
+// result is absolutely a new array but the 
+// object inside the array is still the reference to the original object so that 
+// it value is changed 
+
+
+console.log(items===result)// false;
+// map methods copies sallow copy which is good 
+// else we have to store all object seperatly 
