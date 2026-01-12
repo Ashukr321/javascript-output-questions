@@ -25,7 +25,7 @@ function intro (greeting){
 }
 
 intro.call(person1,"good morning !");// person1 this is the object referece we pass ;
-intro.call(perosn2,"hello sir")
+intro.apply(perosn2,["hello sir"])
 // here what happend basically the .call methods bind to the introd methods 
 
 // intro.call(perosn2,"good evening !");
