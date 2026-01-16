@@ -8,6 +8,7 @@
 
 // in the arrow function the value of the this capture from their lexical scope
 
+
 //object literals
 const user = {
   name: 'John',
